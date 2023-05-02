@@ -18,7 +18,8 @@ I have developped two functions which allow user to input the date or month they
 2. Top 10 (most pedestrians) locations by month
 
 
-The last two questions are solved in a similar way
+The last two questions are solved in a similar way.
+
 For question 3, I have investigate the count for the last 5 years, and found that there is big drop from 2019 to 2020. I calculate the decline in the last 3 years as the count(2019) - average(count(2020-2022)). There could be other ways for this, but current ways can achieve the purpose. 
 
 3. Which location has shown most decline due to lockdowns in last 3 years
